@@ -29,6 +29,7 @@ body {
     padding: 5px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 30px;
 }
 img {
     width:80%;
@@ -44,7 +45,8 @@ iframe {
     margin-right: 50px;
     margin-top: 20px;
     margin-bottom: 20px;
-    width: 60%;  
+    width: 854px;
+    height: 480px;
 }
 h1 {
     font-size: xxx-large;
@@ -60,11 +62,14 @@ h3 {
     font-family: "Milky Coffee", "Brush Script MT", 'Cursive';
     font-size: x-large;
 }
-span > p {
+.important {
     border: 2px;
     border-style: ridge;
     border-color:#ffbb00;
     width:60%;
+}
+.link {
+    margin-left: 50px;
 }
 hr {
     border-top: 1px dashed #8ae3dd;
@@ -75,14 +80,22 @@ p {
     margin-right: 50px;
     margin-top: 20px;
     margin-bottom: 20px;
+    padding-left: 25px;
 }
 a:hover{
-    color:#5946aa;
+    color:#012e19;
 }
 a {
     color:#1a1436;
     font-family: 'Verdana', 'san-serif';
     text-decoration: none;
+    padding-left: 25px;
+}
+table {
+    background-color: #1a1436;
+    margin-left: 80px;
+    width: 85%;
+    text-align: center;
 }
 * {
 color: azure;
