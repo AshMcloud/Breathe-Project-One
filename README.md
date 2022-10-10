@@ -39,6 +39,8 @@ I used a selection of different youtube videos within my website, some linked so
 
 The final linked video was one I filmed and edited myself.
 
+I added a link to the website [Rainymood](https://www.rainymood.com/) a site that hosts sound of rain fall.
+
 I have used photography found on: [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/)
 
 I optimized these photographs using [Tinypng](https://tinypng.com/)
@@ -48,6 +50,12 @@ And then hosted the images through [Dropbox](https://www.dropbox.com/)
 I had a mild snag with working out how to embed images hosted through dropbox and got some answers on [Exclaimer](https://support.exclaimer.com/hc/en-gb/articles/360018586691-How-to-host-an-image-using-Dropbox)
 
 I have added icons to my headers to give them a little more style [Fontawesome](https://fontawesome.com/)
+
+I have included a couple of medical articles from that look at the effects of blue light on the brain and also one of breathing techniques. [WebMD](https://www.webmd.com/)
+
+I have also linked to the program [F.lux](https://justgetflux.com/) which does wonders for mitigating the effects of bluelight on scrcens.
+
+I learnt about meditation in the [London KSD Buddist Monistary](https://london.samye.org/framework/main.php?url=/)
 
 
 
