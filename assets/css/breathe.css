@@ -50,9 +50,11 @@ iframe {
 }
 h1 {
     font-size: xxx-large;
+    font-family: "Milky Coffee", "Brush Script MT", 'Cursive';
 }
 h2 {
     font-size: xx-large;
+    font-family: "Milky Coffee", "Brush Script MT", 'Cursive';
 }
 h3 {
     margin: 50px;
