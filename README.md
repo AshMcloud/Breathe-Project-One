@@ -19,9 +19,11 @@ Main learning of code was gathered in a full stacks course by
 
 Some code was leart from [W3Schools](https://www.w3schools.com/)
 
-[iframes - W3Schools](https://www.w3schools.com/html/html_iframe.asp)
+[iframes HTML- W3Schools](https://www.w3schools.com/html/html_iframe.asp)
 
-[html Youtube - W3Schools](https://www.w3schools.com/html/html_youtube.asp)
+[Youtube HTML- W3Schools](https://www.w3schools.com/html/html_youtube.asp)
+
+[Aligning images CSS - W3Schools](https://www.w3schools.com/howto/howto_css_images_side_by_side.asp)
 
 I aquired the font 'Milky Coffee' for my headers sourced from [dafonts](https://www.dafont.com/milky-coffee.font)
 
@@ -39,11 +41,13 @@ The final linked video was one I filmed and edited myself.
 
 I have used photography found on: [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/)
 
-I optimized these photographs usings: [Tinypng](https://tinypng.com/)
+I optimized these photographs using [Tinypng](https://tinypng.com/)
 
 And then hosted the images through [Dropbox](https://www.dropbox.com/)
 
 I had a mild snag with working out how to embed images hosted through dropbox and got some answers on [Exclaimer](https://support.exclaimer.com/hc/en-gb/articles/360018586691-How-to-host-an-image-using-Dropbox)
+
+I have added icons to my headers to give them a little more style [Fontawesome](https://fontawesome.com/)
 
 
 

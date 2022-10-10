@@ -84,7 +84,7 @@ p {
     margin-bottom: 20px;
     padding-left: 25px;
 }
-a:hover{
+a:hover {
     color:#012e19;
 }
 a {
@@ -94,11 +94,19 @@ a {
     padding-left: 25px;
 }
 table {
+    border: #0bff2b 1px double;
+    border-collapse: collapse;
+    border-width: medium;
+}
+
+th, td {
     background-color: #1a1436;
+    font-family: 'Verdana', 'san-serif';
     margin-left: 80px;
     width: 85%;
     text-align: center;
 }
 * {
 color: azure;
+font-family: 'Verdana', 'san-serif';
 }
