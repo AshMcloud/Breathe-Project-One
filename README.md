@@ -9,7 +9,11 @@ I started out with this idea to create a space for which I could collect togethe
 
 <h2>What do I look to add to this site in the future?</h2>
 
-I would like to add the addition of a comments section so people can suggest what they find peaceful a built a community space for ocean, relaxation minded indivuals.
+I would have liked to have added my own background server for the database for my form, but after looking at different online SQL they where all expensive, I look forwards to learning how to create my own too add to this in the future. for now I have used The Code Institude form dump site which is have listed in my resource section.
+
+I would like to add the addition of a forum comments section so people can suggest what they find peaceful and built a community space for ocean, relaxation minded indivuals.
+
+I think the addition of a gallary would be lovely, where users can submit there own art and photography and have it displayed with a comments section.
 
 <h2>Resources I used in this project</h2>
 
@@ -37,6 +41,8 @@ I used a selection of different youtube videos within my website, some linked so
 
 [Emmett Sparling](https://www.youtube.com/watch?v=boHVOGkgIHk)
 
+[Guillaume Néry](https://www.youtube.com/watch?v=CC6bip-VCxg)
+
 The final linked video was one I filmed and edited myself.
 
 I added a link to the website [Rainymood](https://www.rainymood.com/) a site that hosts sound of rain fall.
@@ -57,6 +63,6 @@ I have also linked to the program [F.lux](https://justgetflux.com/) which does w
 
 I learnt about meditation in the [London KSD Buddist Monistary](https://london.samye.org/framework/main.php?url=/)
 
-
+For the form I created in the index.html I used "https://formdump.codeinstitute.net", The Code Institute formdump address.
 
 
