@@ -5,7 +5,7 @@ You can find my site here [Breathe](https://ashmcloud.github.io/Breathe-Project-
 
 <h2>What's the goal of this page</h2>
 
-I started out with this idea to create a space for which I could collect together different content which I have found relaxing and peace bringing in the past. I hope that site users can find a moment to sit and be comfortable within themselves for a few moments whilst they consider what I have collated on my site.
+I started out with this idea to create a space for which I could collect together different content which I have found relaxing and peace bringing in the past. I hope that site users can find a moment to sit and be comfortable within themselves for a few moments whilst they consider what I have collated on my site. I intend for this website to be lighthearted and a little funny so I've included some jokes to balance out of the more serious nature of the breathing excerises I included which can be found on the Breathing and Sports page.
 
 <h2>What do I look to add to this site in the future?</h2>
 
@@ -16,6 +16,26 @@ I would like to add the addition of a forum comments section so people can sugge
 I think the addition of a gallary would be lovely, where users can submit there own art and photography and have it displayed with a comments section.
 
 I intend to make this website funnier, punnier and more satirical in the future!
+
+<h2>Testing</h2>
+
+
+
+
+I used [W3 Validator](https://validator.w3.org/) and [Jigsaw](https://jigsaw.w3.org/css-validator/validator) to validate my code.
+
+I only found a few errors whilst validating the html docs, mainly being in the iframe element:
+
+        <iframe src="https://youtube.com/embed/cFfP7N8wpMA" title="A 30 minute meditation sound track" alt="A 30 miunute meditation sound track"></iframe>
+
+Fixing it with:
+
+        <iframe src="https://youtube.com/embed/cFfP7N8wpMA" name="A 30 minute meditation sound track"></iframe>
+
+
+There was only one error whilst validating CSS, I had accidentally included a span element with and embeded paragraph, I changed it too a div.       
+
+
 
 <h2>Resources I used in this project</h2>
 
@@ -28,8 +48,6 @@ I would like to give a massive thanks to [James Fidler](https://www.linkedin.com
 I asked a bunch of friends and family to look over my website for feedback, special thanks too: Regan Harle, Charlie Verrall and my dad.
 
 Some code was leart from [W3Schools](https://www.w3schools.com/)
-
-I used [W3 Validator](https://validator.w3.org/) and [Jigsaw](https://jigsaw.w3.org/css-validator/validator) to validate my code.
 
 [iframes HTML- W3Schools](https://www.w3schools.com/html/html_iframe.asp)
 
