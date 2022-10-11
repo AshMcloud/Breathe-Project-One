@@ -15,13 +15,17 @@ I would like to add the addition of a forum comments section so people can sugge
 
 I think the addition of a gallary would be lovely, where users can submit there own art and photography and have it displayed with a comments section.
 
+I intend to make this website funnier, punnier and more satirical in the future!
+
 <h2>Resources I used in this project</h2>
 
 Main learning of code was gathered in a full stacks course by
 
 [Code Institute](https://codeinstitute.net/)
 
-I would like to give a massive thanks to [James Fidler](inkedIn: https://www.linkedin.com/in/james-fidler-a445318/) for advicing me with my code!
+I would like to give a massive thanks to [James Fidler](https://www.linkedin.com/in/james-fidler-a445318/) for advicing me with my code!
+
+I asked a bunch of friends and family to look over my website for feedback, special thanks too: Regan Harle, Charlie Verrall and my dad.
 
 Some code was leart from [W3Schools](https://www.w3schools.com/)
 
@@ -84,7 +88,5 @@ For the form I created in the index.html I used "https://formdump.codeinstitute.
 [Go Freediving](https://gofreediving.co.uk/)
 
 [Visit Sithonia](https://visitsithonia.com/lifestyle/sport/freediving-static-tables/)
-
-
 
 
