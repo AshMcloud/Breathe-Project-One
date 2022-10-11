@@ -21,6 +21,8 @@ Main learning of code was gathered in a full stacks course by
 
 [Code Institute](https://codeinstitute.net/)
 
+I would like to give a massive thanks to [James Fidler](inkedIn: https://www.linkedin.com/in/james-fidler-a445318/) for advicing me with my code!
+
 Some code was leart from [W3Schools](https://www.w3schools.com/)
 
 [iframes HTML- W3Schools](https://www.w3schools.com/html/html_iframe.asp)
