@@ -25,7 +25,7 @@ I would like to give a massive thanks to [James Fidler](inkedIn: https://www.lin
 
 Some code was leart from [W3Schools](https://www.w3schools.com/)
 
-I used [W3 Validator](https://validator.w3.org/) to validate my code.
+I used [W3 Validator](https://validator.w3.org/) and [Jigsaw](https://jigsaw.w3.org/css-validator/validator) to validate my code.
 
 [iframes HTML- W3Schools](https://www.w3schools.com/html/html_iframe.asp)
 
