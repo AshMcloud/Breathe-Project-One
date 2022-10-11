@@ -147,6 +147,9 @@ button {
 button:focus {
     background-color: #1a1436;
 }
+span > p {
+    text-align: right;
+}
 * {
 color: azure;
 font-family: 'Verdana', 'san-serif';

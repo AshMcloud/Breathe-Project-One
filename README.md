@@ -67,6 +67,8 @@ I had a mild snag with working out how to embed images hosted through dropbox an
 
 I have added icons to my headers to give them a little more style [Fontawesome](https://fontawesome.com/)
 
+Pun inspiration came from here [Readers Digest](https://www.rd.com/article/fish-puns/)
+
 I have included a couple of medical articles from that look at the effects of blue light on the brain and also one of breathing techniques. [WebMD](https://www.webmd.com/)
 
 I have also linked to the program [F.lux](https://justgetflux.com/) which does wonders for mitigating the effects of bluelight on scrcens.
