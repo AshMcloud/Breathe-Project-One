@@ -25,11 +25,15 @@ I would like to give a massive thanks to [James Fidler](inkedIn: https://www.lin
 
 Some code was leart from [W3Schools](https://www.w3schools.com/)
 
+I used [W3 Validator](https://validator.w3.org/) to validate my code.
+
 [iframes HTML- W3Schools](https://www.w3schools.com/html/html_iframe.asp)
 
 [Youtube HTML- W3Schools](https://www.w3schools.com/html/html_youtube.asp)
 
 [Aligning images CSS - W3Schools](https://www.w3schools.com/howto/howto_css_images_side_by_side.asp)
+
+[Google Fonts CSS - W3School](https://www.w3schools.com/css/css_font_google.asp)
 
 I aquired the font 'Milky Coffee' for my headers sourced from [dafonts](https://www.dafont.com/milky-coffee.font)
 
@@ -53,6 +57,8 @@ I added a link to the website [Rainymood](https://www.rainymood.com/) a site tha
 
 I have used photography found on: [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/)
 
+I used a comic strip by [K C Green](https://gunshowcomic.com/648) I emailed him to ask permission to use it.
+
 I optimized these photographs using [Tinypng](https://tinypng.com/)
 
 And then hosted the images through [Dropbox](https://www.dropbox.com/)
@@ -68,5 +74,15 @@ I have also linked to the program [F.lux](https://justgetflux.com/) which does w
 I learnt about meditation in the [London KSD Buddist Monistary](https://london.samye.org/framework/main.php?url=/)
 
 For the form I created in the index.html I used "https://formdump.codeinstitute.net", The Code Institute formdump address.
+
+[Immersia Freediving](https://www.immersiafreediving.com/immersed-all-things-freediving/breathing-for-freediving-a-beginners-guide)
+
+[TDI SDI](https://www.tdisdi.com/pfi-diver-news/five-tips-increase-lung-capacity-freediving/)
+
+[Go Freediving](https://gofreediving.co.uk/)
+
+[Visit Sithonia](https://visitsithonia.com/lifestyle/sport/freediving-static-tables/)
+
+
 
 
