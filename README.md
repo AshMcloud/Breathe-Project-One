@@ -33,6 +33,8 @@ Some code was leart from [W3Schools](https://www.w3schools.com/)
 
 I aquired the font 'Milky Coffee' for my headers sourced from [dafonts](https://www.dafont.com/milky-coffee.font)
 
+I had trouble adding the font 'Milky Coffee' to my website and instead have used a font from [Google Fonts](https://fonts.google.com/)
+
 I used a selection of different youtube videos within my website, some linked some embedded. I would like to credit following channels of the beautiful short films and sound tracks I used:
 
 [Meditation and Healing](https://www.youtube.com/watch?v=cFfP7N8wpMA&t=510s)
