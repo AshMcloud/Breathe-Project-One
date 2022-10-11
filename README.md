@@ -3,6 +3,8 @@
 Welcome to my first project website, focusing on learning HTML and CSS.<br>
 You can find my site here [Breathe](https://ashmcloud.github.io/Breathe-Project-One/index.html)
 
+![amiresponsiveaudit](https://user-images.githubusercontent.com/114926441/195209161-605d2462-d55c-4f66-8261-e432ef12b274.jpg)
+
 <h2>What's the goal of this page</h2>
 
 I started out with this idea to create a space for which I could collect together different content which I have found relaxing and peace bringing in the past. I hope that site users can find a moment to sit and be comfortable within themselves for a few moments whilst they consider what I have collated on my site. I intend for this website to be lighthearted and a little funny so I've included some jokes to balance out of the more serious nature of the breathing excerises I included which can be found on the Breathing and Sports page.
@@ -19,8 +21,7 @@ I intend to make this website funnier, punnier and more satirical in the future!
 
 <h2>Testing</h2>
 
-
-
+![lighthouseaudit](https://user-images.githubusercontent.com/114926441/195208351-947f9471-a6cd-4596-b945-f5dbd1728ee1.jpg)
 
 I used [W3 Validator](https://validator.w3.org/) and [Jigsaw](https://jigsaw.w3.org/css-validator/validator) to validate my code.
 
