@@ -19,6 +19,8 @@ I think the addition of a gallary would be lovely, where users can submit there 
 
 I intend to make this website funnier, punnier and more satirical in the future!
 
+If found it quite difficult to make the embedded youtube video responsive for phones, if I had more time I would like to look into fixing this.
+
 <h2>Testing</h2>
 
 ![lighthouseaudit](https://user-images.githubusercontent.com/114926441/195208351-947f9471-a6cd-4596-b945-f5dbd1728ee1.jpg)
@@ -36,17 +38,15 @@ Fixing it with:
 
 There was only one error whilst validating CSS, I had accidentally included a span element with and embeded paragraph, I changed it too a div.       
 
+I would like to give a massive thanks to [James Fidler](https://www.linkedin.com/in/james-fidler-a445318/) for advicing me with my code!
 
+I asked a bunch of friends and family to look over my website for feedback, special thanks too: Regan Harle, Charlie Verrall and my dad.
 
 <h2>Resources I used in this project</h2>
 
 Main learning of code was gathered in a full stacks course by
 
 [Code Institute](https://codeinstitute.net/)
-
-I would like to give a massive thanks to [James Fidler](https://www.linkedin.com/in/james-fidler-a445318/) for advicing me with my code!
-
-I asked a bunch of friends and family to look over my website for feedback, special thanks too: Regan Harle, Charlie Verrall and my dad.
 
 Some code was leart from [W3Schools](https://www.w3schools.com/)
 
